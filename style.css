@@ -1,0 +1,32 @@
+.p1 {
+    border-style: solid;
+    border-width: 1px;
+    font-size: 17px;
+    background-color: #c96f01;
+}
+
+.p2 {
+    border-style: solid;
+    border-width: 1px;
+    font-size: 17px;
+    color: white;
+    background-color: #0100fd;
+}
+
+.p3 {
+    background-color: #ffffff;
+    border-style: groove;
+    border-width: 1px;
+    /* border-color: #d6d6d6; */
+    font-weight: lighter;
+    font-family: monospace;
+    font-size: 26px;
+}
+
+.p4 {
+    border-style: solid;
+    border-width: 1px;
+    font-size: 25px;
+    font-weight: bold;
+    background-color: #808080;
+}
